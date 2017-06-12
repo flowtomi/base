@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  fengzhuang
+//
+//  Created by 章为 on 16/6/22.
+//  Copyright © 2016年 张伟. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ZWTool_define.h"
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
